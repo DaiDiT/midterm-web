@@ -1,0 +1,21 @@
+li {
+    list-style: none;
+}
+main {
+    background-color: #FFFCCC;
+}
+.pad-tp-bt-70 {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+.pad-tp-bt-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.svg-size {
+	width: 30px;
+}
+.bot-nav {
+	text-decoration: none;
+	color: white;
+}
